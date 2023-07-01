@@ -1,0 +1,115 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h2{
+  margin-left: 20%;
+}
+.textf{
+ margin-left: 20%;
+ font-size: larger;
+ position: absolute;
+}
+.textf:hover{
+  box-shadow: inset;
+  border-color: chartreuse;
+}
+.textf:link{
+  border-color: cornflowerblue;
+}
+
+.butn{
+ margin: 0%;
+ position: absolute;
+ margin-left: 20%;
+ font-size: large;
+ margin-top: 20%;
+}
+.butn1{
+  margin: 0%;
+  position: absolute;
+  margin-left: 20%;
+  font-size: large;
+  margin-top: 24%;
+ }
+ .butn2{
+  margin: 0%;
+  position: absolute;
+  margin-left: 52%;
+  font-size: large;
+  margin-top: 20%;
+ }
+.butn:hover{
+  background-color:green;
+  color: bisque;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.butn1:hover{
+  background-color:green;
+  color: bisque;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.butn2:hover{
+  background-color:green;
+  color: bisque;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.butn3:hover{
+  background-color:green;
+  color: bisque;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.butn4:hover{
+  background-color:green;
+  color: bisque;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.collapse.navbar-collapse{
+  margin-right: 200px;
+}
+.Searchbtn{
+ margin-right: 30px;
+}
+.Conatiner{
+  margin: 0%;
+  position: absolute;
+  margin-left: 20%;
+  font-size: large;
+  margin-top: 27%;
+}
+.mb-3{
+  margin-top: 1%;
+}
+.card{
+  margin-top: 6%;
+  background-color:rgb(253, 250, 250);
+  position: absolute;
+  margin-left: 10%;
+  align-items:center;
+}
+.card-body{
+  align-items: center;
+}
+.butn3{
+  margin: 0%;
+  position: absolute;
+  margin-left: 37%;
+  font-size: large;
+  margin-top: 24%;
+ }
+ .butn4{
+  margin: 0%;
+  position: absolute;
+  margin-left: 37%;
+  font-size: large;
+  margin-top: 20%;
+ }
